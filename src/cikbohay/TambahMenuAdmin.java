@@ -52,7 +52,7 @@ public class TambahMenuAdmin extends javax.swing.JPanel {
         jTextField1.setBackground(new java.awt.Color(204, 204, 204));
 
         jLabel3.setFont(new java.awt.Font("Helvetica Neue", 1, 16)); // NOI18N
-        jLabel3.setText("KATEGORY          :");
+        jLabel3.setText("KATEGORI           :");
 
         jLabel4.setFont(new java.awt.Font("Helvetica Neue", 1, 16)); // NOI18N
         jLabel4.setText("HARGA                 :");
